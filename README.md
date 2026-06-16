@@ -1,8 +1,8 @@
 # Hi, I'm Blessing Nwobodo 👋
 
-I am a Data Analyst with interests in data analytics, machine learning, renewable energy analytics, and cloud technologies.
+I am an analytical problem-solver with interests in data analytics, machine learning, renewable energy analytics and cloud technologies.
 
-I enjoy using data to solve real-world problems, support better decision-making, and communicate insights clearly through analysis, machine learning, dashboards, and visualisation.
+I enjoy using data to uncover insights, support evidence-based decision-making and communicate findings through analysis, visualisation and storytelling.
 
 ## Technical Skills
 
@@ -22,7 +22,13 @@ I enjoy using data to solve real-world problems, support better decision-making,
 
 ## Featured Projects
 
-## Featured Projects
+### Scottish Government Innovation Challenge Winner (2026)
+
+Member of the winning team at The DataLab Innovation Challenge hosted at the Edinburgh Futures Institute.
+
+Developed a framework to support decisions on the optimal location of AI data centres in Scotland by considering renewable energy generation, environmental impact, economic benefits and community outcomes.
+
+Challenge Owner: Scottish Government
 
 ### Council Spending Analytics – Rochdale Borough Council
 Analysed public spending data (2022–2025) using Python to identify expenditure trends, supplier concentration, departmental cost drivers and unusual transactions. Produced insights to support budgeting, expenditure monitoring and resource allocation decisions.
