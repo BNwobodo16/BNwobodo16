@@ -20,6 +20,13 @@ I enjoy using data to uncover insights, support evidence-based decision-making a
 - Microsoft Azure
 - Microsoft Fabric
 
+## Currently Working On
+
+- Machine Learning Based Forecasting of Wind Energy Generation and Carbon Intensity Reduction for Net-Zero Transition
+- MSc Business Analytics Capstone Project
+- Building a Data Analytics & Renewable Energy Portfolio
+
+
 ## Featured Projects
 
 ### Scottish Government Innovation Challenge Winner (2026)
